@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="503e3efa-5b62-48fe-9c63-2b56392c42b1" name="Changes" comment="removendo ebac from this directory">
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo1/Atividade Especialista Back - modulo 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo1/Imagens/Exemplo back-end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo1/Imagens/Exemplo front-end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo2/Atividade Especialista Back - modulo 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo2/Imagens/Exemplo jsp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo3/Atividade Especialista Back - modulo 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo3/Imagens/instalação1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo3/Imagens/instalação2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo3/Imagens/instalação3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo3/Imagens/instalação4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ebac/especialista-java-back-end/modulo3/Imagens/instalação5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/especialista-java-back-end" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo1/Atividade Especialista Back - modulo 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo1/Imagens/Exemplo back-end.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo1/Imagens/Exemplo front-end.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo2/Atividade Especialista Back - modulo 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo2/Imagens/Exemplo jsp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo3/Atividade Especialista Back - modulo 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo3/Imagens/instalação1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo3/Imagens/instalação2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo3/Imagens/instalação3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo3/Imagens/instalação4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/ebac/especialista-java-back-end/modulo3/Imagens/instalação5.JPG" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ft/removendo-ebac" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2FSgrPwTE0JBnRMooXw6uNuYXir" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/dev/study&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\dev\study" />
+      <recent name="C:\Users\andre\dev\study\ebac" />
+      <recent name="C:\Users\andre\dev\study\udemy" />
+      <recent name="C:\Users\andre\dev\study\java-completo-2023" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="503e3efa-5b62-48fe-9c63-2b56392c42b1" name="Changes" comment="" />
+      <created>1664491097565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664491097565</updated>
+      <workItem from="1664491098838" duration="70000" />
+      <workItem from="1664491180821" duration="2477000" />
+      <workItem from="1664584289863" duration="1189000" />
+      <workItem from="1664672523085" duration="311000" />
+      <workItem from="1664965620056" duration="327000" />
+      <workItem from="1664992375391" duration="1200000" />
+      <workItem from="1685739225237" duration="30000" />
+      <workItem from="1696354662560" duration="40000" />
+      <workItem from="1696354711426" duration="540000" />
+      <workItem from="1696355265758" duration="88000" />
+      <workItem from="1696355494465" duration="340000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding exercises to branch">
+      <created>1664498271644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664498271644</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding condicional exercises to the new branch">
+      <created>1664672666291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664672666291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refatorando ordem de pastas">
+      <option name="closed" value="true" />
+      <created>1696455676735</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696455676735</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refatorando ordem de pastas">
+      <option name="closed" value="true" />
+      <created>1696455719823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696455719823</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adicionando módulos aos github">
+      <option name="closed" value="true" />
+      <created>1696456897703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696456897703</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adicionando módulos aos github">
+      <option name="closed" value="true" />
+      <created>1696457142110</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696457142110</updated>
+    </task>
+    <task id="LOCAL-00007" summary="removendo ebac from this directory">
+      <option name="closed" value="true" />
+      <created>1696468215210</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696468215210</updated>
+    </task>
+    <task id="LOCAL-00008" summary="removendo ebac from this directory">
+      <option name="closed" value="true" />
+      <created>1696548904360</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696548904360</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adding exercises to branch" />
+    <MESSAGE value="Adding condicional exercises to the new branch" />
+    <MESSAGE value="Refatorando ordem de pastas" />
+    <MESSAGE value="Adicionando módulos aos github" />
+    <MESSAGE value="removendo ebac from this directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="removendo ebac from this directory" />
+  </component>
+</project>
