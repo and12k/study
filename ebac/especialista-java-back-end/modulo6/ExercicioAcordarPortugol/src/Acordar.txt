@@ -1,0 +1,12 @@
+Algoritmo: Acordando no sabado
+1 Ao acordar, levantar da cama;
+2 Após levantar da cama, ir ao banheiro;
+3 ao chegar no banheiro, minhas necessidades;
+4 Após usar o banheiro, retornar para o quarto;
+5 Após chegar ao quarto, deitar na cama novamente; 
+6 Deitado na cama, voltar a dormir;
+7 Ao acordar novamente depois de algumas horas;
+8 Na cama ainda deitado após acordar, verificar notificar o celular;
+9 Após terminar de mexer no celular, me levantar;
+10 Ao levantar, ir até a cozinha;
+11 Tomar mcafé da manhã
