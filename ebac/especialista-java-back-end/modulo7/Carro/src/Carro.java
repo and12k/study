@@ -25,7 +25,7 @@ public class Carro {
     }
 
     public void verificaGasolina(){
-        System.out.println("O carro tem " + combustivel + " listro de combustivel");
+        System.out.println("O carro tem " + combustivel + " litros de combustivel");
     }
 
     public void setCombustivel(double combustivelNovo){
