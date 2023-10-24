@@ -25,9 +25,17 @@ public class Main {
 
         notaFinal= (nota1+nota2+nota3+nota4)/4;
 
+        if (notaFinal < 5){
+            System.out.println("Aluno reprovado!");
+        } else if (notaFinal < 7){
+            System.out.println("ALuno em recuperação");
+        } else {
+            System.out.println("Aluno aprovado!");
+        }
+
+        System.out.println();
         System.out.println("Nota final do aluno: "+ notaFinal/4);
 
         sc.close();
-
     }
 }
