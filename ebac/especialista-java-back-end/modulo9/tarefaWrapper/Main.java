@@ -12,6 +12,7 @@ public class Main {
         Double n = (double) i;
 
         System.out.println("Validação de conversão de variavel para classe" + n.getClass());
+        System.out.println("Leitura da variavel: "+ n);
 
         sc.close();
     }

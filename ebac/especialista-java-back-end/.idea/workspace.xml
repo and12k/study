@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac64a8ac-e72e-4b12-8565-fd05df68ae8c" name="Changes" comment="Tarefa de controle de fluxo">
-      <change afterPath="$PROJECT_DIR$/modulo11/modulo11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo11/tarefaColecoes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo11/tarefaColecoes/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo10/tarefaControleFluxo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo10/tarefaControleFluxo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo8/tarefaCalculoMedio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo8/tarefaCalculoMedio/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modulo9/tarefaWrapper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo9/tarefaWrapper/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,15 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "C:/Users/andre/dev/study/ebac/especialista-java-back-end"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/dev/study/ebac/especialista-java-back-end&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
