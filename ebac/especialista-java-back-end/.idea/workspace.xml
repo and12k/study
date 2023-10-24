@@ -4,16 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac64a8ac-e72e-4b12-8565-fd05df68ae8c" name="Changes" comment="Tarefa wrapper">
-      <change afterPath="$PROJECT_DIR$/modulo10/modulo10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo10/tarefaControleFluxo/Main.java" afterDir="false" />
+    <list default="true" id="ac64a8ac-e72e-4b12-8565-fd05df68ae8c" name="Changes" comment="Tarefa de controle de fluxo">
+      <change afterPath="$PROJECT_DIR$/modulo11/modulo11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo11/tarefaColecoes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo11/tarefaColecoes/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo10/tarefaControleFluxo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo10/tarefaControleFluxo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo8/tarefaCalculoMedio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo8/tarefaCalculoMedio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo9/tarefaWrapper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo9/tarefaWrapper/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -35,10 +46,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "last_opened_file_path": "C:/Users/andre/dev/study/ebac/especialista-java-back-end"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="modulo11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,12 +90,32 @@
       <option name="project" value="LOCAL" />
       <updated>1698104957913</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tarefa de controle de fluxo">
+      <option name="closed" value="true" />
+      <created>1698107776539</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698107776539</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarefa de operadores" />
     <MESSAGE value="Tarefa wrapper" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarefa wrapper" />
+    <MESSAGE value="Tarefa de controle de fluxo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarefa de controle de fluxo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modulo11/tarefaColecoes/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

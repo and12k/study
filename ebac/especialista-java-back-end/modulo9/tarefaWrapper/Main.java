@@ -13,5 +13,6 @@ public class Main {
 
         System.out.println("Validação de conversão de variavel para classe" + n.getClass());
 
+        sc.close();
     }
 }

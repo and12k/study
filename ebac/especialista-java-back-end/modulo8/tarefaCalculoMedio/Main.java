@@ -27,6 +27,7 @@ public class Main {
 
         System.out.println("Nota final do aluno: "+ notaFinal/4);
 
+        sc.close();
 
     }
 }
