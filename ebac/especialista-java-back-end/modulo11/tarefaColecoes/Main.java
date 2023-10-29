@@ -8,7 +8,7 @@ public class Main {
 
         Main.exercicioParte1(sc);
 
-        Main.exercicioParte2(sc);
+         Main.exercicioParte2(sc);
 
         sc.close();
 
@@ -22,6 +22,8 @@ public class Main {
         final List<Pessoa> Pessoas = new ArrayList<>();
 
         Arrays.stream(sc.nextLine().split(" ")).forEach(pessoa -> Pessoas.add(new Pessoa(pessoa)) );
+        
+        Collections.sort(Pessoas);
 
         Pessoas.forEach(pessoa -> System.out.println(pessoa.getNome()));
     }
@@ -40,6 +42,9 @@ public class Main {
             char sexo = novaPessoa[1].toUpperCase().charAt(0);
             Pessoas.add(new Pessoa(nome, sexo));
         }
+
+        Collections.sort(Pessoas);
+
         System.out.println("Pessoas do grupo Masculino:");
         Pessoas.forEach(pessoa -> {if(pessoa.getSexo() == 'M') {System.out.println(pessoa.getNome());}});
 
