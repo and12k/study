@@ -1,4 +1,6 @@
-public class Pessoa {
+import java.util.Comparator;
+
+public class Pessoa implements Comparable<Pessoa> {
     private String nome;
     private char sexo;
 
@@ -23,4 +25,12 @@ public class Pessoa {
     public char getSexo() {
         return sexo;
     }
+
+    @Override
+    public int compareTo(Pessoa pessoa) {
+        return this.nome.compareTo(pessoa.getNome());
+    }
+
+
+
 }
