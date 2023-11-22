@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class Main {
@@ -8,20 +7,16 @@ public class Main {
 
         Main.exercicioParte1(sc);
 
-         Main.exercicioParte2(sc);
+        Main.exercicioParte2(sc);
 
         sc.close();
-
-
-
-
     }
     public static void exercicioParte1(Scanner sc){
         System.out.print("Insira uma sequencia de nomes separados por ESPAÇO: ");
 
         final List<Pessoa> Pessoas = new ArrayList<>();
 
-        Arrays.stream(sc.nextLine().split(" ")).forEach(pessoa -> Pessoas.add(new Pessoa(pessoa)) );
+        Arrays.stream(sc.nextLine().split(" ")).forEach(nome -> Pessoas.add(new Pessoa(nome)) );
         
         Collections.sort(Pessoas);
 
