@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac64a8ac-e72e-4b12-8565-fd05df68ae8c" name="Changes" comment="correção tarefa coleções">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_10_2023_01_18_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_10_2023_01_18__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo12/modulo12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo12/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo12/src/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/modulo11/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/modulo11/Pessoa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/modulo12/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/modulo12/Pessoa.class" afterDir="false" />
+    <list default="true" id="ac64a8ac-e72e-4b12-8565-fd05df68ae8c" name="Changes" comment="Inserindo nova tarefa modulo 12">
+      <change afterPath="$PROJECT_DIR$/modulo13/modulo13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo13/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo13/src/PessoaFisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo13/src/PessoaJuridica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo14/modulo14.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo11/tarefaColecoes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo11/tarefaColecoes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo12/modulo12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modulo12/modulo12.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../.." value="main" />
+        <entry key="$PROJECT_DIR$/../.." value="ft/mod12-tarefaConclusao2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -60,10 +56,17 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="modulo12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="modulo13" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -123,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698551875902</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Inserindo nova tarefa modulo 2">
+      <option name="closed" value="true" />
+      <created>1700678401520</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700678401520</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inserindo nova tarefa modulo 12">
+      <option name="closed" value="true" />
+      <created>1700678445650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700678445650</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,6 +151,8 @@
     <MESSAGE value="Tarefa wrapper" />
     <MESSAGE value="Tarefa de controle de fluxo" />
     <MESSAGE value="correção tarefa coleções" />
-    <option name="LAST_COMMIT_MESSAGE" value="correção tarefa coleções" />
+    <MESSAGE value="Inserindo nova tarefa modulo 2" />
+    <MESSAGE value="Inserindo nova tarefa modulo 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserindo nova tarefa modulo 12" />
   </component>
 </project>
